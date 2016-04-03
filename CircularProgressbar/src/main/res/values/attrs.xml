@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressBar">
+        <attr name="hideProgressValue" format="boolean" />
+        <attr name="progressTextSize" format="dimension" />
+        <attr name="progressTextColor" format="color" />
+        <attr name="progressColor" format="color" />
+        <attr name="innerColor" format="color" />
+        <attr name="strokeDimension" format="dimension" />
+    </declare-styleable>
+</resources>
